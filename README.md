@@ -1,5 +1,7 @@
 # Music Player
 
+🔗 **[Live Demo](https://dipesh-katuwal.github.io/MusicPlayer/)**
+
 A local music player built with React and Vite. Browse the bundled songs, play a track, adjust playback, and save songs to a favourites list.
 
 ## Features
